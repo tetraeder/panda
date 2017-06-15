@@ -1,3 +1,8 @@
+## Sources
+http://mongoosejs.com/docs/models.html
+
+
+
 # BigPanda Fullstack Exercise
 
 ## To start hacking:
