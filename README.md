@@ -6,7 +6,7 @@ http://mongoosejs.com/docs/models.html
 
 infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 
-realtime updates: https://www.airpair.com/#6-creating-a-realtime-application-with-express-and-socket-io
+realtime updates: http://www.jlmonteagudo.com/2013/06/javascript-stack/
 
 
 # BigPanda Fullstack Exercise
