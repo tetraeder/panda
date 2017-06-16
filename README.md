@@ -1,6 +1,8 @@
 ## Sources
-http://mongoosejs.com/docs/models.html
 
+https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-0-127017-reason-errno10061
+
+http://mongoosejs.com/docs/models.html
 
 
 # BigPanda Fullstack Exercise
