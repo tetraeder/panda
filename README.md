@@ -4,7 +4,7 @@ https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-
 
 http://mongoosejs.com/docs/models.html
 
-https://sroze.github.io/ngInfiniteScroll/demo_basic.html
+infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 
 
 # BigPanda Fullstack Exercise
