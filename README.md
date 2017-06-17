@@ -8,6 +8,8 @@ infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 
 realtime updates: http://www.jlmonteagudo.com/2013/06/javascript-stack/
 
+stars: https://codepen.io/jamesbarnett/pen/vlpkh
+
 
 # BigPanda Fullstack Exercise
 
