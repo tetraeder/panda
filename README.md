@@ -1,5 +1,7 @@
 ## Sources
 
+MEAN dev: https://www.safaribooksonline.com/library/view/mean-web-development/9780134575445/
+
 https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-0-127017-reason-errno10061
 
 http://mongoosejs.com/docs/models.html
