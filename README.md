@@ -4,13 +4,15 @@ MEAN dev: https://www.safaribooksonline.com/library/view/mean-web-development/97
 
 https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-0-127017-reason-errno10061
 
+stars: https://codepen.io/jamesbarnett/pen/vlpkh
+
 http://mongoosejs.com/docs/models.html
 
 infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 
 realtime updates: http://www.jlmonteagudo.com/2013/06/javascript-stack/
+https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial/
 
-stars: https://codepen.io/jamesbarnett/pen/vlpkh
 
 
 # BigPanda Fullstack Exercise
