@@ -1,6 +1,9 @@
 ## Sources
 
+node.js: https://www.safaribooksonline.com/library/view/learning-nodejs-second/9780134663869/LNL2_01_05.html
+angular: https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/
 MEAN dev: https://www.safaribooksonline.com/library/view/mean-web-development/9780134575445/
+https://www.safaribooksonline.com/library/view/mastering-mean-web/9781785882159/
 
 https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-0-127017-reason-errno10061
 
