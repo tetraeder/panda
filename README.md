@@ -9,6 +9,8 @@ https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-
 
 stars: https://codepen.io/jamesbarnett/pen/vlpkh
 
+**isolate scopes for each instance** : https://thinkster.io/egghead/isolate-scope-am
+
 http://mongoosejs.com/docs/models.html
 
 infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
