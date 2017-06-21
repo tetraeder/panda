@@ -2,6 +2,7 @@
 
 node.js: https://www.safaribooksonline.com/library/view/learning-nodejs-second/9780134663869/LNL2_01_05.html
 angular: https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/
+
 MEAN dev: https://www.safaribooksonline.com/library/view/mean-web-development/9780134575445/
 https://www.safaribooksonline.com/library/view/mastering-mean-web/9781785882159/
 
@@ -18,7 +19,10 @@ infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 realtime updates: http://www.jlmonteagudo.com/2013/06/javascript-stack/
 https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial/
 
+## Tasks:
+Node.js>Angular>MEAN
 
+stars ui > bind to controllers > server side updates (post)
 
 # BigPanda Fullstack Exercise
 
