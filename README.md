@@ -25,7 +25,7 @@ https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial/
 ## Tasks:
 Node.js>Angular>MEAN
 
-stars ui > bind to controllers > server side updates (post)
+stars ui > bind to controllers > server side updates (post) -> implementing socket.io
 
 # BigPanda Fullstack Exercise
 
