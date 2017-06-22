@@ -30,7 +30,10 @@ realtime updates:
 ** https://socket.io/docs/#using-with-express-3/4 ** 
 http://slides.com/ryantucker/socket-io-and-angular-js#/17
 http://www.jlmonteagudo.com/2013/06/javascript-stack/
-https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial/
+https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial
+
+watch changes:
+https://stackoverflow.com/questions/15112584/how-do-i-use-scope-watch-and-scope-apply-in-angularjs
 
 ## Tasks:
 Node.js>Angular>MEAN
