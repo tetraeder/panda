@@ -20,6 +20,8 @@ https://thinkster.io/egghead/isolate-scope-am
 https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/video169735.html
 binding controlers https://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html#binding-to-controllers-with-bindtocontroller
 
+https://thinkster.io/egghead/understanding-isolate-scope
+
 http://mongoosejs.com/docs/models.html
 
 infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
