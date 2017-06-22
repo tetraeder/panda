@@ -18,6 +18,7 @@ express routing: https://expressjs.com/en/guide/routing.html
 **isolate scopes for each instance** :
 https://thinkster.io/egghead/isolate-scope-am
 https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/video169735.html
+binding controlers https://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html#binding-to-controllers-with-bindtocontroller
 
 http://mongoosejs.com/docs/models.html
 
