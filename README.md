@@ -13,6 +13,8 @@ stars: https://codepen.io/jamesbarnett/pen/vlpkh
 
 testing (optional) : http://rob.conery.io/2012/02/24/testing-your-model-with-mocha-mongo-and-nodejs/
 
+express routing: https://expressjs.com/en/guide/routing.html
+
 **isolate scopes for each instance** : https://thinkster.io/egghead/isolate-scope-am
 
 http://mongoosejs.com/docs/models.html
