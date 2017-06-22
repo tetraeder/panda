@@ -19,7 +19,7 @@ http://mongoosejs.com/docs/models.html
 
 infinite scrolling: https://sroze.github.io/ngInfiniteScroll/demo_basic.html
 
-realtime updates: http://www.jlmonteagudo.com/2013/06/javascript-stack/
+realtime updates: ** https://socket.io/docs/#using-with-express-3/4 ** http://www.jlmonteagudo.com/2013/06/javascript-stack/
 https://vexxhost.com/resources/tutorials/mean-socket-io-integration-tutorial/
 
 ## Tasks:
