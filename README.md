@@ -15,7 +15,9 @@ testing (optional) : http://rob.conery.io/2012/02/24/testing-your-model-with-moc
 
 express routing: https://expressjs.com/en/guide/routing.html
 
-**isolate scopes for each instance** : https://thinkster.io/egghead/isolate-scope-am
+**isolate scopes for each instance** :
+https://thinkster.io/egghead/isolate-scope-am
+https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/video169735.html
 
 http://mongoosejs.com/docs/models.html
 
