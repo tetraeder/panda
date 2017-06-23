@@ -4,6 +4,8 @@ node.js: https://www.safaribooksonline.com/library/view/learning-nodejs-second/9
 
 angular: https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/
 
+directives: https://www.safaribooksonline.com/library/view/factories-and-directives/9781771373586/
+
 MEAN dev: https://www.safaribooksonline.com/library/view/mean-web-development/9780134575445/
 https://www.safaribooksonline.com/library/view/mastering-mean-web/9781785882159/
 
