@@ -13,7 +13,8 @@ https://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-
 
 stars: https://codepen.io/jamesbarnett/pen/vlpkh
 
-testing (optional) : http://rob.conery.io/2012/02/24/testing-your-model-with-mocha-mongo-and-nodejs/
+**testing (optional)** : http://rob.conery.io/2012/02/24/testing-your-model-with-mocha-mongo-and-nodejs/
+**e2e testing (angular seed)** : https://www.safaribooksonline.com/library/view/learning-angular-js/9781771372138/video169753.html
 
 express routing: https://expressjs.com/en/guide/routing.html
 
