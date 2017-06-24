@@ -1,7 +1,14 @@
 <ul>
-  <li ng-repeat='comment in $ctrl.comments'>
+  <li ng-repeat="comment in $ctrl.comments track by $index">
     <img gravatar-src-once="comment.email" />
-	<p>{{ comment.email}} </p>
-    <p>{{ comment.comment }} </p>
+    <div>
+      <p>{{comment.comment}}</p>
+      <rating comment="comment" send-rating="$ctrl.sendRating(commentId, rate)"></rating>
+    </div>
   </li>
 </ul>
+
+<input type="text" size="80px"  ng-model="text">	
+<img src="/img/comment_img.png" width="20%" ng-click="$ctrl.addComment(text)" />
+
+

@@ -1,0 +1,24 @@
+<fieldset class="rating">
+	<input type="radio" id="star5{{vm.comment._id}}"
+		name="rating{{vm.comment._id}}" value="5" ng-checked="vm.stars[5]"
+		ng-click="vm.clickScore(5)" /> <label class="full"
+		for="star5{{vm.comment._id}}" title="Awesome - 5 stars"></label> <input
+		type="radio" id="star4{{vm.comment._id}}"
+		name="rating{{vm.comment._id}}" value="4" ng-checked="vm.stars[4]"
+		ng-click="vm.clickScore(4)" /> <label class="full"
+		for="star4{{vm.comment._id}}" title="Pretty good - 4 stars"></label> <input
+		type="radio" id="star3{{vm.comment._id}}"
+		name="rating{{vm.comment._id}}" value="3" ng-checked="vm.stars[3]"
+		ng-click="vm.clickScore(3)" /> <label class="full"
+		for="star3{{vm.comment._id}}" title="Meh - 3 stars"></label> <input
+		type="radio" id="star2{{vm.comment._id}}"
+		name="rating{{vm.comment._id}}" value="2" ng-checked="vm.stars[2]"
+		ng-click="vm.clickScore(2)" /> <label class="full"
+		for="star2{{vm.comment._id}}" title="Kinda bad - 2 stars"></label> <input
+		type="radio" id="star1{{vm.comment._id}}"
+		name="rating{{vm.comment._id}}" value="1" ng-checked="vm.stars[1]"
+		ng-click="vm.clickScore(1)" /> <label class="full"
+		for="star1{{vm.comment._id}}" title="Sucks big time - 1 star"></label>
+</fieldset>
+<span>Average score: {{vm.avScore}}; <span="vm.myScore">My
+		score: {{vm.myScore}}</span></span>
